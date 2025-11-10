@@ -1,0 +1,5 @@
+{
+  "name": "Gymshark Fit Pro AI",
+  "description": "A premium AI stylist and size recommender designed to provide accurate, physique-based size recommendations for Gymshark clothing using user-provided data and an optional full-body photo.",
+  "requestFramePermissions": []
+}
